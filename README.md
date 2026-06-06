@@ -1,3 +1,5 @@
+[![smithery badge](https://smithery.ai/badge/a-schwan/simosphere-ai)](https://smithery.ai/servers/a-schwan/simosphere-ai)
+
 # SIMOSphere AI MCP Examples
 
 Model Context Protocol (MCP) integration examples for [SIMOSphere AI](https://simosphereai.com).
