@@ -1,4 +1,4 @@
-[![smithery badge](https://smithery.ai/badge/a-schwan/simosphere-ai)](https://smithery.ai/servers/a-schwan/simosphere-ai)
+[![smithery badge](https://smithery.ai/badge/simosphereai/simosphere-ai)](https://smithery.ai/servers/simosphereai/simosphere-ai)
 
 # SIMOSphere AI MCP Examples
 
